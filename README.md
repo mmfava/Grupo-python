@@ -80,6 +80,33 @@
 
 -   **Aula 11**: [Cores no terminal](https://www.youtube.com/watch?v=K10u3XIf1-Q&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=38) (30m)
 
+    -   [Exercício #028](https://www.youtube.com/watch?v=kchC5KLZSZ4&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=39)
+
+    -   [Exercício #029](https://www.youtube.com/watch?v=hgJ_ETNGSj8&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=40)
+
+    -   [Exercício #030](https://www.youtube.com/watch?v=4vFCzKuHOn4&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=41)
+
+    -   [Exercício #031](https://www.youtube.com/watch?v=PGqHyzWoagc&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=42)
+
+    -   [Exercício #032](https://www.youtube.com/watch?v=cyGY_83m4Xw&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=43)
+
+    -   [Exercício #033](https://www.youtube.com/watch?v=a_8FbW5oH6I&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=44)
+
+    -   [Exercício #034](https://www.youtube.com/watch?v=Sfadj_AzKHw&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=45)
+
+    -   [Exercício #035](https://www.youtube.com/watch?v=NZiNphKkxhg&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=46)
+
+### Organização
+
+| Semana            | Aula Python                             | Dia das dúvidas   | Feito? |
+|------------------|------------------|------------------|------------------|
+| 22/04/22-28/04/22 | Aula 1 até a 4                          | 20:00h - 28/04/22 | □      |
+| 29/04/22-05/05/22 | Aula 5 e 6 (exercícios #001 até #004)   | 20:00h - 05/05/22 | □      |
+| 06/05/22-12/05/22 | Aula 7 (exercícios #005 até #015)       | 20:00h - 12/05/22 | □      |
+| 13/05/22-19/05/22 | Aula 8 (exercícios #016 até #021)       | 20:00h - 19/05/22 | □      |
+| 20/05/22-26/05/22 | Aula 9 (exercícios #022 até #027)       | 20:00h - 26/05/22 | □      |
+| 27/05/22-02/06/22 | Aula 10 e 11 (exercícios #028 até #035) | 20:00h - 02/06/22 | □      |
+
 ### MUNDO 2
 
 (Lê ou Rapha preencher)
