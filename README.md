@@ -90,4 +90,4 @@
 
 ## Data science com Python
 
-## **Programação orientada a objetos com o Pythons** 
+## **Programação orientada a objetos com o Pythons**
